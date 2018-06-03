@@ -1,3 +1,7 @@
+#こんなのが表示されます。
+
+![サンプル](https://github.com/Tama-rb/homebrew-logo/sample.png)
+
 # インストール方法
 ## Mac
 `brew tap Tama-rb/homebrew-logo  `  
