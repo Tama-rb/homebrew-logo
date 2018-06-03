@@ -1,6 +1,6 @@
 #こんなのが表示されます。
 
-![サンプル](https://github.com/Tama-rb/homebrew-logo/sample.png)
+![サンプル](https://github.com/Tama-rb/homebrew-logo/blob/master/sample.png)
 
 # インストール方法
 ## Mac
