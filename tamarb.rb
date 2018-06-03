@@ -5,7 +5,7 @@ class Tamarb < Formula
   desc ""
   homepage ""
   url "https://github.com/Tama-rb/homebrew-logo/tree/master/release/tamarb.tar.gz"
-  sha256 "40131596dde67fc5bab512bf58cb0b9f55b66a9a"
+  sha256 "14883682c83d88201964a41f813c5c9267c87cb028b8bddf497cd3f4a28b231a"
   version "0.1"
   # depends_on "cmake" => :build
 
